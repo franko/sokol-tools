@@ -10,4 +10,4 @@ CPU_TARGET=nehalem
 
 BUILD_TYPE=Release
 
-packages=(pystring fmt getopt spirv-tools "glslang -optimizer" spirv-cross)
+packages=(pystring fmt getopt spirv-tools "glslang -optimizer" "spirv-cross -cli")
