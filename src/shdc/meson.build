@@ -11,7 +11,7 @@ sokol_tools_source = [
     'util.cc',
 ]
 
-executable('sokol_shdc',
+executable('sokol-shdc',
     sokol_tools_source,
     dependencies: sokol_tools_deps,
     install: true,
