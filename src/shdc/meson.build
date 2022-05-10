@@ -5,6 +5,7 @@ sokol_tools_source = [
     'input.cc',
     'main.cc',
     'sokol.cc',
+    'sokolzig.cc',
     'spirv.cc',
     'spirvcross.cc',
     'util.cc',

@@ -5,9 +5,9 @@
 #include "shdc.h"
 #include "fmt/format.h"
 #include "pystring.h"
-#include "ShaderLang.h"
-#include "ResourceLimits.h"
-#include "GlslangToSpv.h"
+#include "glslang/Public/ShaderLang.h"
+#include "glslang/Include/ResourceLimits.h"
+#include "glslang/SPIRV/GlslangToSpv.h"
 #include "spirv-tools/libspirv.hpp"
 #include "spirv-tools/optimizer.hpp"
 
